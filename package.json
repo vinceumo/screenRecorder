@@ -1,0 +1,23 @@
+{
+  "name": "screen-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinceumo/screenRecorder.git"
+  },
+  "author": "Vincent Humeau",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/vinceumo/screenRecorder/issues"
+  },
+  "homepage": "https://github.com/vinceumo/screenRecorder#readme",
+  "dependencies": {
+    "puppeteer": "^5.2.1",
+    "puppeteer-full-page-screenshot": "^1.0.5"
+  }
+}
