@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/vinceumo/screenRecorder#readme",
   "dependencies": {
-    "puppeteer": "^5.2.1",
-    "puppeteer-full-page-screenshot": "^1.0.5"
+    "puppeteer": "^5.2.1"
   }
 }
